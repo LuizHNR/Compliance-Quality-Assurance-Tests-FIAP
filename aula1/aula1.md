@@ -1,7 +1,5 @@
 <h2>Software Quality Assurance (SQA)</h2>
-
-    -> Qualidade de Software é o grau de conformidade com requisitos e expectativas, explicitos ou implicitos
-
+    Qualidade de Software é o grau de conformidade com requisitos e expectativas, explicitos ou implicitos
       <ul>
         <li>
             <b>Requisitos:</b> de negócios, de produtos e de Software;
@@ -10,9 +8,6 @@
             <b>Implicito:</b> não claramente definido e documentado, mas indiretamente sugerido;
         </li>
       </ul>
-        
-
-
     <h4>SQA engloba, então, várias atividade como:</h4> 
         <ul>
             <li> 
@@ -23,11 +18,8 @@
                 Melhoria de processos;
             </li>
         </ul>
-           
-
     <h4>Controle de qualidade de software:</h4>
         <li><b>É rigido</b></li>
-    
     <h4>Importancia</h4>
         <ul>
             <li>
